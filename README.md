@@ -1,16 +1,37 @@
-## Hi there 👋
+ Hi there! 👋
 
-<!--
-**28khushi08/28Khushi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Who I Am
+- Name: Khushi Kumari
+-Education:PGDM Student
+- College: Fortune Institute of International Business (FIIB)
+- About Me: A motivated learner focused on personal and professional growth.
 
-Here are some ideas to get you started:
+ My Interests
+- Business Management
+- Marketing and Human Resource Management
+- Leadership and Teamwork
+- Communication and Problem-Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I Am Learning
+- Business concepts and management skills
+- Data analysis and decision-making
+- Professional communication and presentation
+- Team collaboration and practical problem-solving
+
+ My Strengths
+- Willingness to learn
+- Positive attitude
+- Adaptability
+- Continuous improvement
+
+ My Goals 🎯
+- Improve my management and professional skills.
+- Gain practical knowledge through projects.
+- Build confidence and leadership abilities.
+- Prepare for future career opportunities.
+
+ What This Space Is About
+- Sharing my projects and achievements.
+- Documenting my learning journey.
+- Exploring new ideas and skills.
+- Growing personally and professionally.
